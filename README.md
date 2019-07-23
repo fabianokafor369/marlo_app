@@ -1,8 +1,10 @@
 # marlo_app
 This is a miniapp which collects user feedback on a meeting and records such feedback in a database for admin interaction and visibility.
 
-##Running the app
-First step is to clone the repo
+Running the app
+
+First step is to clone the repo.
+
 Go to the dir where you have the downloaded folder.
 
 You must be running Python 3 to develop on this project. Run python --version and ensure that the print out is 3.x.x (usually it will be 3.6.x). If you see version 2, then try to repeat the command above with python3 --version. If this second approach worked for you then please read the whole of the next paragraph before creating your virtual environment.
