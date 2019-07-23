@@ -1,7 +1,7 @@
 # marlo_app
 This is a miniapp which collects user feedback on a meeting and records such feedback in a database for admin interaction and visibility.
 
-Running the app
+Running the app:
 
 First step is to clone the repo.
 
