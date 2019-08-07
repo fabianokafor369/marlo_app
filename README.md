@@ -1,5 +1,8 @@
 # marlo_app
-This is a miniapp which collects user feedback on a meeting and records such feedback in a database for admin interaction and visibility.
+This is a miniapp built with Flask for the backend, Html CSs for backend, and Mysql for the database. The app collects user feedback on a meeting and records such feedback in a database for admin interaction and visibility. 
+
+![Screenshot](marloapp_demo)
+
 
 Running the app:
 
@@ -9,7 +12,7 @@ Go to the dir where you have the downloaded folder.
 
 You must be running Python 3 to develop on this project. Run python --version and ensure that the print out is 3.x.x (usually it will be 3.6.x). If you see version 2, then try to repeat the command above with python3 --version. If this second approach worked for you then please read the whole of the next paragraph before creating your virtual environment.
 
-Activate the virtual environment with the following code in Command Prompt (Flask does not work in Powershell) in the top level of the repo: venv\Scripts\activate. You should see (venv) appear at the beginning of the next line in your Command Prompt.
+Activate the virtual environment with the following code in Command Prompt (Flask does not work on Powershell) in the top level of the repo: venv\Scripts\activate. You should see (venv) appear at the beginning of the next line in your Command Prompt.
 
 To deactivate later, run deactivate. The (venv) should dissapear.
 
