@@ -1,7 +1,7 @@
 # marlo_app
 This is a miniapp built with Flask for the backend, Html CSs for backend, and Mysql for the database. The app collects user feedback on a meeting and records such feedback in a database for admin interaction and visibility. 
 
-![Screenshot](marloapp_demo)
+![Screenshot](marloapp_demo.jpg)
 
 
 Running the app:
